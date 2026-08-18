@@ -1,0 +1,6 @@
+../Src/segment.c:31:6:segment_init	1
+../Src/segment.c:70:7:GPIO_init	1
+../Src/segment.c:74:6:all_digits_off	1
+../Src/segment.c:79:6:display_digit	3
+../Src/segment.c:94:6:segment_refresh_tick	2
+../Src/segment.c:107:6:update_segment	4

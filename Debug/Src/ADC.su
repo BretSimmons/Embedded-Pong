@@ -1,0 +1,5 @@
+../Src/ADC.c:3:6:ADC_Wakeup	16	static
+../Src/ADC.c:24:6:ADC_Pin_Init	4	static
+../Src/ADC.c:34:6:ADC_Common_Configuration	4	static
+../Src/ADC.c:48:6:ADC_Init	8	static
+../Src/ADC.c:86:5:Read_ADC	4	static

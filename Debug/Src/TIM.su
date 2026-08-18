@@ -1,0 +1,4 @@
+../Inc/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Inc/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+../Src/TIM.c:14:6:TIM4_Init	8	static
+../Src/TIM.c:32:6:TIM4_IRQHandler	40	static

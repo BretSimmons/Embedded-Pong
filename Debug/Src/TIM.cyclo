@@ -1,0 +1,4 @@
+../Inc/core_cm4.h:1679:22:__NVIC_EnableIRQ	2
+../Inc/core_cm4.h:1809:22:__NVIC_SetPriority	2
+../Src/TIM.c:14:6:TIM4_Init	1
+../Src/TIM.c:32:6:TIM4_IRQHandler	44
