@@ -2,13 +2,8 @@
 Recreation of the classic arcade game Pong using an STM32 Nucleo-64.
 
 **Demo**
-<table>
-  <tr valign="bottom">
-    <td align="center">
-      <video src="media/PongDemo.mp4" alt="Demo" width="60%" controls></video>
-    </td>
-  </tr>
-</table>
+
+https://github.com/user-attachments/assets/88976e30-0a15-4369-8d54-63a6a0f566e5
 
 **Functionality:**
 
